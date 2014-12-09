@@ -6,7 +6,7 @@ DragonNest .act fixer for v2 action files or newer.
 ====================
 
 Requires python 2.7.x or newer (python 3.x is not supported).
-It has 4 search regex's, normally for skill and vechiles the first one will work, for character_basic.act you can try running other if you get crashed.
+It has 4 search regex's, normally for skill and vehicles the first one will work, for character_basic.act you can try running other regexe's (the one commented) if you get crashed.
 
 Run as :` python act-script.py <folder name> `
 
